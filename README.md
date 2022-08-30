@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Fairness in AI and ML
-- 🌱 I’m currently learning Neural Networks and Natural Language Processing
+- 🌱 I’m currently learning Data Systems, Differential Privacy and Game Design
 - 💬 Ask me about games, music and trekking
 - 📫 How to reach me: 
   - LinkedIn - [rvk7895](https://www.linkedin.com/in/rvk7895/) 
